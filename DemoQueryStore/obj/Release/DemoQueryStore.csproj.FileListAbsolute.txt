@@ -1,0 +1,11 @@
+D:\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.exe.config
+D:\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.exe
+D:\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.pdb
+D:\DemoQueryStore\DemoQueryStore\obj\Release\DemoQueryStore.exe
+D:\DemoQueryStore\DemoQueryStore\obj\Release\DemoQueryStore.pdb
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.exe.config
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\obj\Release\DemoQueryStore.exe
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\obj\Release\DemoQueryStore.pdb
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.exe
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\bin\Release\DemoQueryStore.pdb
+D:\ricoDATA\讀書會\SQL PASS201701\DemoQueryStore\DemoQueryStore\obj\Release\DemoQueryStore.csprojResolveAssemblyReference.cache
